@@ -1,0 +1,19 @@
+---
+layout: post
+title: "2nd post"
+date: 2013-08-19 18:09
+comments: true
+categories: 
+---
+
+This is my 2nd post. 
+
+My name is Weijia GUO, living in Boston, MA. I'm a daughter, wife and mother. 
+
+###Mark1
+
+Mark2
+=====
+
+Mark3
+-----
