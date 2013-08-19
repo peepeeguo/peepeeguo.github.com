@@ -1,0 +1,13 @@
+---
+layout: post
+title: "1st post on Jekyll"
+date: 2013-08-19 12:28
+comments: true
+categories: 
+---
+
+Hello, world!
+
+Being really excited to be here.
+
+{% img  http://farm9.staticflickr.com/8240/8457171996_7b771f330f_k.jpg  %}
