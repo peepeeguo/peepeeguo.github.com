@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[PeePeeGUO]]></title>
+  <link href="http://peepeeguo.github.io/atom.xml" rel="self"/>
+  <link href="http://peepeeguo.github.io/"/>
+  <updated>2013-08-19T12:32:49-04:00</updated>
+  <id>http://peepeeguo.github.io/</id>
+  <author>
+    <name><![CDATA[Weijia GUO]]></name>
+    <email><![CDATA[me@guoweijia.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[1st post on Jekyll]]></title>
+    <link href="http://peepeeguo.github.io/blog/2013/08/19/1st/"/>
+    <updated>2013-08-19T12:28:00-04:00</updated>
+    <id>http://peepeeguo.github.io/blog/2013/08/19/1st</id>
+    <content type="html"><![CDATA[<p>Hello, world!</p>
+
+<p>Being really excited to be here.</p>
+
+<p><img src="http://farm9.staticflickr.com/8240/8457171996_7b771f330f_k.jpg" title="" ></p>
+]]></content>
+  </entry>
+  
+</feed>
