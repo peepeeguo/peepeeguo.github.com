@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[PeePeeGUO]]></title>
-  <link href="http://peepeeguo.github.io/atom.xml" rel="self"/>
-  <link href="http://peepeeguo.github.io/"/>
-  <updated>2013-08-19T23:58:36-04:00</updated>
-  <id>http://peepeeguo.github.io/</id>
+  <link href="http://blog.guoweijia.com/atom.xml" rel="self"/>
+  <link href="http://blog.guoweijia.com/"/>
+  <updated>2013-08-20T00:02:06-04:00</updated>
+  <id>http://blog.guoweijia.com/</id>
   <author>
     <name><![CDATA[Weijia GUO]]></name>
     <email><![CDATA[me@guoweijia.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[1st post on Jekyll]]></title>
-    <link href="http://peepeeguo.github.io/blog/2013/08/19/1st/"/>
+    <link href="http://blog.guoweijia.com/blog/2013/08/19/1st/"/>
     <updated>2013-08-19T12:28:00-04:00</updated>
-    <id>http://peepeeguo.github.io/blog/2013/08/19/1st</id>
+    <id>http://blog.guoweijia.com/blog/2013/08/19/1st</id>
     <content type="html"><![CDATA[<p>Hello, world!</p>
 
 <p>Being really excited to be here.</p>
